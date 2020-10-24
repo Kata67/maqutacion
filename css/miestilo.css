@@ -1,0 +1,69 @@
+*{box-sizing: border-box;
+
+} 
+
+body{ 
+	margin: auto;
+	 
+}
+h1{
+	text-align: center;font-size: 200%  
+}
+h2{ 
+	text-align: center;font-size:135%
+}
+.serif {
+  font-family: "Algerian",serif;
+}
+.color1{background-color: #231F20; height: 125px 
+}
+h3{
+	text-align: right;font-family: 'Kaushan Script', cursive; font-size: 205%;
+}
+h4{
+	text-align: right;font-family: 'Kaushan Script', cursive; font-size: 165%;
+}
+p{
+	font-size: 115%
+}
+
+ #wrapper {
+        background:url('estudios.jpg');
+        width:400px;height:231px;
+    }
+    #button {
+        position:relative;
+        left:1%;
+        top:223%;
+        width:499px;
+        height:50px;
+    }
+    .accordion {
+  background-color: #74818E;
+  color: #444;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  text-align: left;
+  border: none;
+  outline: none;
+  transition: 0.4s;
+}
+.active, .accordion:hover {
+  background-color: #ccc;
+}
+.panel {
+  padding: 0 18px;
+  background-color: white;
+  display: none;
+  overflow: hidden;
+}
+
+nav.navbar ul.nav li {
+    background-color:#231F20;
+    
+}
+.gris{
+  background-color: #373435;
+  text-align: left;
+}
